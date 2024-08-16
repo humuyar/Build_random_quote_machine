@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
 .App {
   text-align: center;
+  
   #quote-box {
     padding: 25px;
     background-color: white;
     border-radius: 10px;
     color: black;
     width: 40%;
+    
     #author {
       text-align: end;
     }
+
     .button {
       display: flex;
       justify-content: space-between;
@@ -22,6 +24,7 @@
         justify-content: center;
       }
     }
+
     #new-quote {
       color: white;
       border-radius: 10px;
@@ -32,6 +35,7 @@
       font-size: 16px;
     }
   }
+
   .App-header {
     background-color: #6d366b9e;
     min-height: 100vh;
@@ -41,6 +45,5 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
-  }  
+  }
 }
-
