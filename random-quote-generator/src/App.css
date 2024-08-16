@@ -16,7 +16,7 @@
       display: flex;
       justify-content: space-between;
       min-height: 50px;
-      
+
       #tweet-quote {
         display: flex;
         padding: 10px;
