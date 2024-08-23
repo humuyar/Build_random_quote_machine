@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Random-Quote-Machine🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description 📝
 
-## Available Scripts
+Hi guys welcome to my random quote machine. i make this project bcuz of implementing HTML CSS and Js by using react and it was so interesting this was new thing for me i never do that before, and this app show my activity that how much i work on it and what i achive from this.
 
-In the project directory, you can run:
+```html
+<!-- Header with Humberger Menu-->
+ <body>
+    <div id="root"></div>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  </body>
+```
 
-### `npm start`
+```css
+  .App-header {
+    background-color: #6d366b9e;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```Java Script
+import React, {useState, useEffect} from 'react';
+import './App.css';
+import COLORS_ARRAY from './colorsArray';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faTwitter} from '@fortawesome/free-brands-svg-icons';
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+const quoteDBUrl = "https://gist.githubusercontent.com/camperbot/5a022b72e96c4c9585c32bf6a75f62d9/raw/e3c6895ce42069f0ee7e991229064f167fe8ccdc/quotes.json";
+```
 
-### `npm test`
+## Demo 📸
+life demo link [[.]]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used 🛠️
+- HTML
+- CSS
+- JAVA SCRIPT
 
-### `npm run build`
+## Installation 💻
+#1 clone the repository:
+```clone
+  git@github.com:humuyar/Build_random_quote_machine.git
+     cd random-quote-machine
+```
+#2 install:
+```npm
+npm install
+```
+#3 start the server:
+```npm
+npm start
+```
+## Features ⭐
+- This website is a responsive website for mobile and desktop version. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Author 👩‍💼
+Humaira ✨Qabooli✨
+- Github: https://github.com/humuyar/Build_random_quote_machine/pull/1✔
+- LinkedIn: [www.linked in/Humaira (Hmui) Qabooli.com](https://www.linkedin.com/in/humaira-qabooli-0aa529309/)✔
+- Email: humiq6071@gmail.com✔
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing 🤝
+🎇 by using this link you can share your opinion : https://github.com/humuyar/Build_random_quote_machine/issues
