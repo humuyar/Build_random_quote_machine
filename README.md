@@ -40,7 +40,7 @@ life demo link [[.]]
 ## Technologies Used 🛠️
 - HTML
 - CSS
-- JAVA SCRIPT
+- React JS
 
 ## Installation 💻
 #1 clone the repository:
