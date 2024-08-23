@@ -5,7 +5,6 @@
 Hi guys welcome to my random quote machine. i make this project bcuz of implementing HTML CSS and Js by using react and it was so interesting this was new thing for me i never do that before, and this app show my activity that how much i work on it and what i achive from this.
 
 ```html
-<!-- Header with Humberger Menu-->
  <body>
     <div id="root"></div>
     <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
