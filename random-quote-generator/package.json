@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/humuyar/Build_random_quote_machine/tree/creating_random_quote_machine",
+  "homepage": "https://github.io/humuyar/Build_random_quote_machine/tree/creating_random_quote_machine",
   "name": "random-quote-generator",
   "version": "0.1.0",
   "private": true,
@@ -10,6 +10,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "env-cmd": "^10.1.0",
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -46,8 +47,6 @@
     "@babel/core": "^7.25.2",
     "@babel/eslint-parser": "^7.25.1",
     "@babel/plugin-syntax-jsx": "^7.24.7",
-    "@babel/preset-react": "^7.24.7",
-    "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsx-a11y": "^6.9.0",
